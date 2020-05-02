@@ -1,4 +1,4 @@
 
- web: java -cp target/classes/:target/dependency/* file.server.Application
+web: java -jar target/pelmeni.jar
 
 
