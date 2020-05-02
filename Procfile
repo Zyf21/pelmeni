@@ -1,3 +1,4 @@
- web: java $JAVA_OPTS -cp target/classes:target/*.jar file.server.Application
+
+ web: java -cp target/classes/:target/dependency/* file.server.Application
 
 
