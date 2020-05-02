@@ -31,7 +31,7 @@ public class FileController {
 		return fileService.getFileById(fileId);
 
 	}
-	@GetMapping("/w")
+	@GetMapping("/")
 	String home() {
 		return "Hello, World!";
 	}
