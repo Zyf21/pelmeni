@@ -1,1 +1,1 @@
-web: java -jar target/file-1.0.0.jar
+web: java -jar target/pelmeni-1.0.0.jar
