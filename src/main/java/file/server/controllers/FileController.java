@@ -31,6 +31,10 @@ public class FileController {
 		return fileService.getFileById(fileId);
 
 	}
+	@GetMapping("/w")
+	String home() {
+		return "Hello, World!";
+	}
 
 	@PostMapping("/uploadFile")
 	public Long uploadFile(@RequestParam("file") MultipartFile file)  {
