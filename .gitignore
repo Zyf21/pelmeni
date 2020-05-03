@@ -1,0 +1,20 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+*.properties
+logs/
+*.log
+
+.classpath
+.project
+.settings/
+.dbeaver-data-sources.xml
+Diagrams/
+Scripts/
+/.idea/
