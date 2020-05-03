@@ -31,9 +31,9 @@ public class FileController {
 		return fileService.getFileById(fileId);
 
 	}
-	@GetMapping("/")
+	@GetMapping("/w")
 	String home() {
-		return "Hello, World!";
+		return "Люблю котика";
 	}
 
 	@PostMapping("/uploadFile")
