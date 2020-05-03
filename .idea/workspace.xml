@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bf182dd-9bb4-48bc-99b5-a2f058308371" name="Default Changelist" comment="" />
+    <list default="true" id="0bf182dd-9bb4-48bc-99b5-a2f058308371" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -349,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588473568993</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="[ADD] fix">
+      <created>1588473920509</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1588473920509</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -366,10 +375,10 @@
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="1862" y="477" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1280.0.1920.1080/0.27.1280.997@1280.0.1920.1080" timestamp="1588457224070" />
-    <state x="1405" y="82" width="1685" height="864" key="CommitChangelistDialog2" timestamp="1588473568948">
+    <state x="1405" y="82" width="1685" height="864" key="CommitChangelistDialog2" timestamp="1588473920459">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
-    <state x="1405" y="82" width="1685" height="864" key="CommitChangelistDialog2/1280.0.1920.1080/0.27.1280.997@1280.0.1920.1080" timestamp="1588473568948" />
+    <state x="1405" y="82" width="1685" height="864" key="CommitChangelistDialog2/1280.0.1920.1080/0.27.1280.997@1280.0.1920.1080" timestamp="1588473920459" />
     <state x="2101" y="452" key="Github.ShareDialog" timestamp="1588457689314">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
@@ -410,9 +419,9 @@
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="1773" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/1280.0.1920.1080/0.27.1280.997@1280.0.1920.1080" timestamp="1588457130865" />
-    <state x="1835" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588473570376">
+    <state x="1835" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588473921620">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
-    <state x="1835" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/1280.0.1920.1080/0.27.1280.997@1280.0.1920.1080" timestamp="1588473570376" />
+    <state x="1835" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/1280.0.1920.1080/0.27.1280.997@1280.0.1920.1080" timestamp="1588473921620" />
   </component>
 </project>
